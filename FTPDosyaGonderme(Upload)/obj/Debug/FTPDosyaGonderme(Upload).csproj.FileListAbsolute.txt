@@ -1,0 +1,18 @@
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).exe.config
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).csprojResolveAssemblyReference.cache
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme_Upload_.Properties.Resources.resources
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).exe
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).pdb
+C:\Users\yedanalioglu\Documents\Visual Studio 2015\Projects\FTPDosyaGonderme(Upload)\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme_Upload_.Form1.resources
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).exe.config
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).exe
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\bin\Debug\FTPDosyaGonderme(Upload).pdb
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).csprojResolveAssemblyReference.cache
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme_Upload_.Form1.resources
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme_Upload_.Properties.Resources.resources
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).csproj.GenerateResource.Cache
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).exe
+C:\Users\yedanalioglu\Desktop\FTPDosyaGonderme-Upload--master\FTPDosyaGonderme(Upload)\obj\Debug\FTPDosyaGonderme(Upload).pdb
